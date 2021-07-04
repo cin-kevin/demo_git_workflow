@@ -1,2 +1,2 @@
 def main():
-    print("Hello world long term")
+    print("Hello world 2")
